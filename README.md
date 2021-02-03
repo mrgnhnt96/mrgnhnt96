@@ -5,8 +5,9 @@ Just a friendly neighborhood Flutter Developer! Currently a Senior Engineer at [
 <a href="https://www.cleansimpleeats.com">
   <img src="https://i.imgur.com/EPyiBZ6.png" height="100" />
 </a>
-</br>
-</br>
+
+
+---
 
 
 <!--
@@ -28,7 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mrgnhnt96@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The longest time I have coded non-stop is 36 hours, and it was just for fun!
-</br>
+
+
+
+---
+
 
 
 [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgnhnt96&theme=prussian&count_private=true&show_icons=true)](https://github.com/mrgnhnt96/github-readme-stats)
