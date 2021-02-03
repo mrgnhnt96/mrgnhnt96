@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Quickyy, a video sharing platform
-- 📫 How to reach me: mrgnhnt96@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: The longest time I have coded non-stop is 36 hours, and it was just for fun!
+- 🔭 - I’m currently working on: Quickyy, a video sharing platform
+- 📫 - How to reach me: mrgnhnt96@gmail.com
+- 😄 - Pronouns: he/him
+- ⚡ - Fun fact: The longest time I have coded non-stop is 36 hours, and it was just for fun!
 
 
 
