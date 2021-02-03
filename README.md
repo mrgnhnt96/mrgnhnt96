@@ -6,7 +6,10 @@
 </a>
 
 </br>
+
 Just a friendly neighborhood Flutter Developer! Currently a Senior Engineer at [Clean Simple Eats](https://www.cleansimpleeats.com)
+
+</br>
 
 <a href="https://www.cleansimpleeats.com">
   <img src="https://i.imgur.com/EPyiBZ6.png" height="100" />
