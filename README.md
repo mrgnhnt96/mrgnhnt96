@@ -1,6 +1,13 @@
 ### Sup! :sunglasses:
 
-Just a friendly neighborhood Flutter Developer! Currently a Senior Engineer at [Clean Simple Eats](https://www.cleansimpleeats.com)
+Just a friendly neighborhood Flutter Developer! 
+<a href="https://www.cleansimpleeats.com">
+  <img src="https://i.imgur.com/oPxhcis.png" height="100" />
+</a>
+
+
+
+Currently a Senior Engineer at [Clean Simple Eats](https://www.cleansimpleeats.com)
 
 <a href="https://www.cleansimpleeats.com">
   <img src="https://i.imgur.com/EPyiBZ6.png" height="100" />
