@@ -1,6 +1,3 @@
-### Sup! :sunglasses:
-
-
 <a href="https://www.cleansimpleeats.com">
   <img src="https://i.imgur.com/oPxhcis.png" height="100" />
 </a>
