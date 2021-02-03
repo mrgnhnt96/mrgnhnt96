@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Quickyy a video sharing platform
+- 🔭 I’m currently working on: Quickyy, a video sharing platform
 - 📫 How to reach me: mrgnhnt96@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The longest time I have coded non-stop is 36 hours, and it was just for fun!
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 
 
-[![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgnhnt96&theme=prussian&count_private=true&show_icons=true)](https://github.com/mrgnhnt96/github-readme-stats)
+[![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgnhnt96&theme=prussian&count_private=true&show_icons=true)](https://github.com/mrgnhnt96)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgnhnt96&layout=compact)](https://github.com/mrgnhnt96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgnhnt96&layout=compact)](https://github.com/mrgnhnt96)
