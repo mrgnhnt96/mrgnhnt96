@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 
 
-[![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgnhnt96&theme=prussian&count_private=true&show_icons=true)](https://github.com/mrgnhnt96)
+[![Morgan's GitHub stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mrgnhnt96)](https://profile.codersrank.io/user/mrgnhnt96)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgnhnt96&layout=compact)](https://github.com/mrgnhnt96)
+[![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrgnhnt96)](https://github.com/mrgnhnt96)
