@@ -1,6 +1,6 @@
 ## 🚀 Welcome to My GitHub Hub!
 
-Hey there! I'm glad you're here. My name is [Your Name], and this is where I share what I'm passionate about: building tools, libraries, and apps that make life easier for developers and users alike.
+Hey there! I'm glad you're here. My name is Morgan, and this is where I share what I'm passionate about: building tools, libraries, and apps that make life easier for developers and users alike.
 
 ### 👨‍💻 Who I Am
 
