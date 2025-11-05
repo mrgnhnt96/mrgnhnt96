@@ -28,5 +28,3 @@ If you see something here that inspires you or want to collaborate on an idea, f
 Feel free to star any projects you like, fork them to make them better, or just explore what I've been up to lately. Let's learn, innovate, and grow as developers together.
 
 Thanks for visiting—let's make something awesome! ✨
-
-![SKILLS](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mrgnhnt96&skills=Flutter,Dart,JavaScript,TypeScript,NestJS,Svelte,React&width=1000)
